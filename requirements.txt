@@ -1,0 +1,4 @@
+ipython
+music21
+jupyter
+notebook
